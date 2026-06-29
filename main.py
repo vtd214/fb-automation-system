@@ -6,27 +6,20 @@ import pyotp
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
+from dotenv import load_dotenv  # <-- Thêm thư viện này
+
+# Nạp toàn bộ dữ liệu từ file .env vào hệ thống
+load_dotenv()
 
 # ==============================================================================
 # --- 1. BẢNG CẤU HÌNH THỜI GIAN & KỊCH BẢN (ĐẠT TỰ CHỈNH THEO Ý MUỐN) ---
 # ==============================================================================
-# Thời gian chờ tải trang hoàn tất (Giây)
 DELAY_LOAD_PAGE = (8, 12)  
-
-# Thời gian robot cuộn chuột lướt đọc bài viết giả lập người thật (Giây)
 DELAY_READ_POST = (5, 10)  
-
-# Tốc độ gõ từng ký tự (Giây/phím) -> Càng ngẫu nhiên càng giống người thật
 DELAY_TYPING_SPEED = (0.08, 0.25)  
-
-# Thời gian nghỉ giãn cách an toàn giữa các nhóm (Giây)
-# CHÚ Ý: Khi chạy thực tế nuôi nick nên để từ (180, 300) giây (tức 3 - 5 phút/nhóm)
 DELAY_BETWEEN_GROUPS = (30, 60)  
-
-# Số lượng nhóm tối đa muốn tương tác cho mỗi từ khóa chủ đề
 MAX_GROUPS_PER_KEYWORD = 2  
 
-# Danh sách kịch bản câu bình luận (Robot sẽ bốc ngẫu nhiên để tránh trùng lặp)
 COMMENT_TEMPLATES = [
     "Bài viết chia sẻ rất chi tiết, cảm ơn thớt nhiều nhé!",
     "Đúng chủ đề mình đang quan tâm luôn, thông tin bổ ích quá ạ.",
@@ -34,17 +27,19 @@ COMMENT_TEMPLATES = [
     "Cảm ơn bạn đã tổng hợp kiến thức hữu ích này nha!"
 ]
 
-# --- THÔNG TIN VIA FACEBOOK ---
-FB_UID = "61586925999382"
-FB_PASS = "duongadalia040a"
-FB_2FA = "ZRQ6PFJXBDI4CDTSYISLNXEFDQCP4AR6"
-COOKIE_RAW = "c_user=61586925999382; xs=6%3ATf104H9T3XjFEA%3A2%3A1773153682%3A-1%3A-1; presence=C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1776249113457%2C%22v%22%3A1%7D; wd=1056x600; dpr=0.22140221297740936; sb=ji2waWVJGIBvtahT4n8828b2; pas=61586925999382%3Ae853PxqDRc; wl_cbv=v2%3Bclient_version%3A3108%3Btimestamp%3A1773153713; datr=4QN2aaHrd5un0UCFqQXOB6Kg; m_pixel_ratio=0.47999998927116394; locale=vi_VN; fbl_st=100427394%3BT%3A29552561; fr=0kGsKzrTwQVOLkgpx.AWcL80HsIlLSG-vcfuJcgJJNV8o92p3em5LRomFlCO1OwqxOJRM.BpdgRy..AAA.0.0.Bp32kW.AWcof8RcDwp8Hd8h-RA3mfCnd1U;"
+# --- THÔNG TIN VIA FACEBOOK (ĐÃ ĐƯỢC BẢO MẬT AN TOÀN) ---
+FB_UID = os.getenv("FB_UID")
+FB_PASS = os.getenv("FB_PASS")
+FB_2FA = os.getenv("FB_2FA")
+COOKIE_RAW = os.getenv("COOKIE_RAW")
 
 KEYWORDS = [
-    "Đồ án chi tiết máy",
+    "chế tạo máy",
     "Học vi điều khiển STM32 PIC",
     "Cộng đồng lập trình C C# Python"
 ]
+
+# ... Toàn bộ phần code logic (Khởi tạo trình duyệt, Đăng nhập, Tương tác...) bên dưới giữ nguyên 100% không thay đổi gì cả ...
 
 # ==============================================================================
 # --- 2. KHỞI TẠO TRÌNH DUYỆT CÁCH LY ---
