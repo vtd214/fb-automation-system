@@ -1,4 +1,3 @@
-
 # 📊 Facebook Automation System (FAS)
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -7,6 +6,7 @@
 
 **Facebook Automation System (FAS)** is an open-source automation tool built with **Python** and **Selenium WebDriver**. It is designed to automate group searching, post interactions, and account warming by precisely mimicking human browsing behavior. This tool helps optimize workflow efficiency and cuts down manual interaction time.
 
+---
 
 ## 🔥 Core Features
 
@@ -16,15 +16,17 @@
 * 👍 **Randomized Interaction:** Automatically likes posts and picks comment templates randomly from a pre-configured list to avoid repetitive patterns.
 * 🛡️ **Absolute Security:** Completely separates sensitive personal account data from the core source code using an external environment configuration file (`.env`).
 
+---
 
-🚀 Step-by-Step Installation & Setup
+## 🚀 Step-by-Step Installation & Setup
 
-📋 Prerequisites
+### 📋 Prerequisites
 * Make sure **Python 3.8 or higher** is installed on your computer.
 * Ensure you have the latest version of the **Google Chrome** browser installed.
 
+---
 
-🔹 Step 1: Clone the Repository
+### 🔹 Step 1: Clone the Repository
 Open your **CMD** or **Terminal**, navigate to the directory where you want to save the project, and run:
 ```bash
 git clone [https://github.com/vtd214/fb-automation-system.git](https://github.com/vtd214/fb-automation-system.git)
@@ -34,7 +36,7 @@ cd fb-automation-system
 
 *(Alternatively, you can click the green **Code** button -> select **Download ZIP** on the GitHub interface and extract it).*
 
-🔹 Step 2: Install Required Dependencies
+### 🔹 Step 2: Install Required Dependencies
 
 Run the following command in your terminal to install all necessary Python packages:
 
@@ -43,7 +45,7 @@ pip install selenium pyotp python-dotenv
 
 ```
 
-🔹 Step 3: Configure Security Credentials
+### 🔹 Step 3: Configure Security Credentials
 
 The system reads credentials from an external `.env` file to ensure your account details are never exposed online.
 
@@ -60,7 +62,7 @@ COOKIE_RAW=your_raw_facebook_cookie_string
 
 > ⚠️ **IMPORTANT NOTE:** Do NOT use double quotes `""` or single quotes `''` around the text values inside the `.env` file. This file is already ignored by `.gitignore` and will safely stay on your local machine.
 
-🔹 Step 4: Run the Program
+### 🔹 Step 4: Run the Program
 
 Open CMD in the project folder and execute the script:
 
@@ -95,3 +97,6 @@ Contributions to optimize interaction algorithms or enhance anti-bot bypass mech
 
 This project is open-source and distributed under the **MIT License**. You are free to copy, modify for commercial use, or redistribute it.
 
+```
+
+```
