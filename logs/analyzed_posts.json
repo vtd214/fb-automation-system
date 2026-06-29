@@ -1,0 +1,50 @@
+[
+  {
+    "post_id": "p101",
+    "author": "nguyễn phúc kiến",
+    "content": "Mình đang làm đồ án tốt nghiệp về hệ thống giám sát động học cơ cấu elip (Ellipse-Kinematics-Monitoring-System) sử dụng PLC Siemens và TIA Portal. Hiện tại phần tính toán PID cho biến tần chạy chưa mượt, bị vọt lố. Ai có kinh nghiệm tối ưu thông số Kp, Ki, Kd trên SCL không ạ?",
+    "comments": [
+      {
+        "author": "Nguyễn Hoàng",
+        "text": "Bạn nên dùng tính năng Auto-Tuning của TIA Portal trước để lấy thông số nền, sau đó hãy tinh chỉnh tay SCL."
+      }
+    ],
+    "summary": "Tác giả làm đồ án giám sát động học cơ cấu elip dùng PLC Siemens, TIA Portal, gặp khó khăn tối ưu PID cho biến tần, bị vọt lố.",
+    "technical_keywords": [
+      "PID",
+      "PLC Siemens",
+      "TIA Portal",
+      "SCL",
+      "Biến tần",
+      "Auto-Tuning",
+      "Kp",
+      "Ki",
+      "Kd",
+      "Ellipse-Kinematics-Monitoring-System"
+    ],
+    "suggested_reply": "Chào bạn, bạn nên dùng Auto-Tuning của TIA Portal để lấy thông số nền, sau đó tinh chỉnh thủ công trong SCL để đạt hiệu quả tốt nhất."
+  },
+  {
+    "post_id": "p102",
+    "author": "Lê Minh",
+    "content": "Mọi người cho mình hỏi thuật toán lọc Kalman (Kalman Filter) ứng dụng để xử lý nhiễu IMU trên robot mecanum STM32 thì nên triển khai trên mạch nạp nào tối ưu nhất?",
+    "comments": [
+      {
+        "author": "Hoàng Robot",
+        "text": "STM32F4 hoặc F7 có FPU xử lý số thực sẽ tốt hơn dòng F1 nhiều nhé b."
+      }
+    ],
+    "summary": "Bài viết hỏi về triển khai thuật toán Kalman Filter xử lý nhiễu IMU trên robot mecanum dùng STM32, tìm mạch nạp tối ưu.",
+    "technical_keywords": [
+      "Kalman Filter",
+      "IMU",
+      "robot mecanum",
+      "STM32",
+      "STM32F4",
+      "STM32F7",
+      "STM32F1",
+      "FPU"
+    ],
+    "suggested_reply": "Chào bạn, STM32F4 hoặc F7 với FPU sẽ tối ưu hơn F1 cho Kalman Filter xử lý số thực. Chúc bạn thành công!"
+  }
+]

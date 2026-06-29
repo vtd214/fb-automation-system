@@ -1,0 +1,24 @@
+[
+  {
+    "post_id": "p101",
+    "author": "nguyễn phúc kiến",
+    "content": "Mình đang làm đồ án tốt nghiệp về hệ thống giám sát động học cơ cấu elip (Ellipse-Kinematics-Monitoring-System) sử dụng PLC Siemens và TIA Portal. Hiện tại phần tính toán PID cho biến tần chạy chưa mượt, bị vọt lố. Ai có kinh nghiệm tối ưu thông số Kp, Ki, Kd trên SCL không ạ?",
+    "comments": [
+      {
+        "author": "Nguyễn Hoàng",
+        "text": "Bạn nên dùng tính năng Auto-Tuning của TIA Portal trước để lấy thông số nền, sau đó hãy tinh chỉnh tay SCL."
+      }
+    ]
+  },
+  {
+    "post_id": "p102",
+    "author": "Lê Minh",
+    "content": "Mọi người cho mình hỏi thuật toán lọc Kalman (Kalman Filter) ứng dụng để xử lý nhiễu IMU trên robot mecanum STM32 thì nên triển khai trên mạch nạp nào tối ưu nhất?",
+    "comments": [
+      {
+        "author": "Hoàng Robot",
+        "text": "STM32F4 hoặc F7 có FPU xử lý số thực sẽ tốt hơn dòng F1 nhiều nhé b."
+      }
+    ]
+  }
+]

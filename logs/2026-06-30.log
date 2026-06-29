@@ -1,0 +1,460 @@
+03:31:35 [INFO] 🚀 Bắt đầu hệ thống Watchdog quản lý phiên chạy tự động...
+03:31:36 [INFO] 🌐 Đang khởi chạy Google Chrome...
+03:31:37 [INFO] 🔑 Đang kiểm tra trạng thái đăng nhập Facebook...
+03:31:42 [INFO] 🎉 ĐĂNG NHẬP HOÀN TẤT!
+03:31:43 [INFO] 🔍 Đang tìm kiếm từ khóa: xe tự hành
+03:31:57 [INFO] ➔ Vào nhóm: https://www.facebook.com/groups/tcid.vn/
+03:32:25 [INFO] AFC is enabled with max remote calls: 10.
+03:32:25 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1/models/gemini-2.5-flash:generateContent "HTTP/1.1 401 Unauthorized"
+03:32:25 [WARNING] Lỗi gọi Gemini (Lần thử 1/3): 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'service': 'generativelanguage.googleapis.com', 'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent'}}]}}
+03:32:30 [INFO] AFC is enabled with max remote calls: 10.
+03:32:30 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1/models/gemini-2.5-flash:generateContent "HTTP/1.1 401 Unauthorized"
+03:32:30 [WARNING] Lỗi gọi Gemini (Lần thử 2/3): 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'service': 'generativelanguage.googleapis.com', 'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent'}}]}}
+03:32:40 [INFO] AFC is enabled with max remote calls: 10.
+03:32:40 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1/models/gemini-2.5-flash:generateContent "HTTP/1.1 401 Unauthorized"
+03:32:40 [WARNING] Lỗi gọi Gemini (Lần thử 3/3): 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}
+03:32:47 [INFO] ✅ Đã cmt bài viết: Bài viết chia sẻ rất hay, cảm ơn bạn!
+03:33:48 [INFO] ➔ Vào nhóm: https://www.facebook.com/groups/5009369609174609/
+03:34:11 [INFO] AFC is enabled with max remote calls: 10.
+03:34:11 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1/models/gemini-2.5-flash:generateContent "HTTP/1.1 401 Unauthorized"
+03:34:11 [WARNING] Lỗi gọi Gemini (Lần thử 1/3): 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}
+03:34:16 [INFO] AFC is enabled with max remote calls: 10.
+03:34:16 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1/models/gemini-2.5-flash:generateContent "HTTP/1.1 401 Unauthorized"
+03:34:16 [WARNING] Lỗi gọi Gemini (Lần thử 2/3): 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'service': 'generativelanguage.googleapis.com', 'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent'}}]}}
+03:34:26 [INFO] AFC is enabled with max remote calls: 10.
+03:34:26 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1/models/gemini-2.5-flash:generateContent "HTTP/1.1 401 Unauthorized"
+03:34:26 [WARNING] Lỗi gọi Gemini (Lần thử 3/3): 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}
+03:34:34 [INFO] ✅ Đã cmt bài viết: Bài viết chia sẻ rất hay, cảm ơn bạn!
+03:35:31 [INFO] 🔍 Đang tìm kiếm từ khóa: Cộng đồng lập trình C C# Python
+03:35:42 [INFO] ➔ Vào nhóm: https://www.facebook.com/groups/laptrinhwebfullstack/
+03:36:03 [INFO] AFC is enabled with max remote calls: 10.
+03:36:04 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1/models/gemini-2.5-flash:generateContent "HTTP/1.1 401 Unauthorized"
+03:36:04 [WARNING] Lỗi gọi Gemini (Lần thử 1/3): 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}
+03:36:09 [INFO] AFC is enabled with max remote calls: 10.
+03:36:09 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1/models/gemini-2.5-flash:generateContent "HTTP/1.1 401 Unauthorized"
+03:36:09 [WARNING] Lỗi gọi Gemini (Lần thử 2/3): 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}
+03:36:19 [INFO] AFC is enabled with max remote calls: 10.
+03:36:19 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1/models/gemini-2.5-flash:generateContent "HTTP/1.1 401 Unauthorized"
+03:36:19 [WARNING] Lỗi gọi Gemini (Lần thử 3/3): 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}
+03:36:27 [INFO] ✅ Đã cmt bài viết: Bài viết chia sẻ rất hay, cảm ơn bạn!
+03:36:28 [INFO] 🚪 Đang đóng trình duyệt giải phóng RAM tài nguyên...
+03:36:28 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/fd91d0bc8b6ce27cd329e8a4b58e9731
+03:36:32 [WARNING] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=64168): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/fd91d0bc8b6ce27cd329e8a4b58e9731
+03:36:36 [WARNING] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=64168): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/fd91d0bc8b6ce27cd329e8a4b58e9731
+03:39:41 [INFO] 🚀 Bắt đầu hệ thống Watchdog quản lý phiên chạy tự động...
+03:39:41 [INFO] 🌐 Đang khởi chạy Google Chrome...
+03:39:42 [INFO] 🔑 Đang kiểm tra trạng thái đăng nhập Facebook...
+03:39:45 [INFO] 🎉 ĐĂNG NHẬP HOÀN TẤT!
+03:39:51 [INFO] 🔍 Đang tìm kiếm từ khóa: Cộng đồng lập trình C C# Python
+03:40:02 [INFO] 🚪 Đang đóng trình duyệt giải phóng RAM tài nguyên...
+04:08:58 [INFO] 🌐 Đang khởi chạy Google Chrome với Profile...
+04:08:59 [INFO] 🔑 Truy cập Facebook trang chủ...
+04:09:05 [INFO] 🔍 Bắt đầu tìm kiếm từ khóa: xe tự hành
+04:09:10 [WARNING] Không điều hướng được bằng thanh tìm kiếm, thử gọi URL trực tiếp: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=149.0.7827.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff65bd53fa5+14925]
+	chromedriver!GetHandleVerifier [0x7ff65bd54000+14980]
+	chromedriver!(No symbol) [0x7ff65b89793d]
+	chromedriver!(No symbol) [0x7ff65b882d82]
+	chromedriver!(No symbol) [0x7ff65b8a90cc]
+	chromedriver!(No symbol) [0x7ff65b921aa0]
+	chromedriver!(No symbol) [0x7ff65b93ec82]
+	chromedriver!(No symbol) [0x7ff65b8e401c]
+	chromedriver!(No symbol) [0x7ff65b8e4f43]
+	chromedriver!GetHandleVerifier [0x7ff65c337591+5f7f11]
+	chromedriver!GetHandleVerifier [0x7ff65c331902+5f2282]
+	chromedriver!GetHandleVerifier [0x7ff65c357115+617a95]
+	chromedriver!GetHandleVerifier [0x7ff65bd71dce+3274e]
+	chromedriver!GetHandleVerifier [0x7ff65bd7a82c+3b1ac]
+	chromedriver!GetHandleVerifier [0x7ff65bd5d744+1e0c4]
+	chromedriver!GetHandleVerifier [0x7ff65bd5d8d4+1e254]
+	chromedriver!GetHandleVerifier [0x7ff65bd41447+1dc7]
+	KERNEL32!BaseThreadInitThunk [0x7ffcb1cde957+17]
+	ntdll!RtlUserThreadStart [0x7ffcb1ea7c1c+2c]
+
+04:09:10 [ERROR] 💥 Lỗi luồng tự động: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff65bd53fa5+14925]
+	chromedriver!GetHandleVerifier [0x7ff65bd54000+14980]
+	chromedriver!(No symbol) [0x7ff65b897726]
+	chromedriver!(No symbol) [0x7ff65b8e3083]
+	chromedriver!(No symbol) [0x7ff65b91a2d2]
+	chromedriver!(No symbol) [0x7ff65b9140d2]
+	chromedriver!(No symbol) [0x7ff65b913892]
+	chromedriver!(No symbol) [0x7ff65b8603e5]
+	chromedriver!GetHandleVerifier [0x7ff65c337591+5f7f11]
+	chromedriver!GetHandleVerifier [0x7ff65c331902+5f2282]
+	chromedriver!GetHandleVerifier [0x7ff65c357115+617a95]
+	chromedriver!GetHandleVerifier [0x7ff65bd71dce+3274e]
+	chromedriver!GetHandleVerifier [0x7ff65bd7a82c+3b1ac]
+	chromedriver!(No symbol) [0x7ff65b85f188]
+	chromedriver!GetHandleVerifier [0x7ff65c507b58+7c84d8]
+	KERNEL32!BaseThreadInitThunk [0x7ffcb1cde957+17]
+	ntdll!RtlUserThreadStart [0x7ffcb1ea7c1c+2c]
+Traceback (most recent call last):
+  File "E:\fb_automation\main.py", line 117, in run_automation_flow
+    search_box = wait.until(EC.element_to_be_clickable((By.XPATH, "//input[@placeholder='Tìm kiếm trên Facebook' or @aria-label='Tìm kiếm trên Facebook']")))
+                 ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\VO TUAN DAT\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\support\wait.py", line 112, in until
+    value = method(self._driver)
+  File "C:\Users\VO TUAN DAT\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 518, in _predicate
+    target = driver.find_element(*target)  # grab element at locator
+  File "C:\Users\VO TUAN DAT\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 899, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\VO TUAN DAT\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 492, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\VO TUAN DAT\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=149.0.7827.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff65bd53fa5+14925]
+	chromedriver!GetHandleVerifier [0x7ff65bd54000+14980]
+	chromedriver!(No symbol) [0x7ff65b89793d]
+	chromedriver!(No symbol) [0x7ff65b882d82]
+	chromedriver!(No symbol) [0x7ff65b8a90cc]
+	chromedriver!(No symbol) [0x7ff65b921aa0]
+	chromedriver!(No symbol) [0x7ff65b93ec82]
+	chromedriver!(No symbol) [0x7ff65b8e401c]
+	chromedriver!(No symbol) [0x7ff65b8e4f43]
+	chromedriver!GetHandleVerifier [0x7ff65c337591+5f7f11]
+	chromedriver!GetHandleVerifier [0x7ff65c331902+5f2282]
+	chromedriver!GetHandleVerifier [0x7ff65c357115+617a95]
+	chromedriver!GetHandleVerifier [0x7ff65bd71dce+3274e]
+	chromedriver!GetHandleVerifier [0x7ff65bd7a82c+3b1ac]
+	chromedriver!GetHandleVerifier [0x7ff65bd5d744+1e0c4]
+	chromedriver!GetHandleVerifier [0x7ff65bd5d8d4+1e254]
+	chromedriver!GetHandleVerifier [0x7ff65bd41447+1dc7]
+	KERNEL32!BaseThreadInitThunk [0x7ffcb1cde957+17]
+	ntdll!RtlUserThreadStart [0x7ffcb1ea7c1c+2c]
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\fb_automation\main.py", line 135, in run_automation_flow
+    driver.get(f"https://www.facebook.com/search/groups/?q={kw_encoded}")
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\VO TUAN DAT\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 512, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\VO TUAN DAT\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 492, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\VO TUAN DAT\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff65bd53fa5+14925]
+	chromedriver!GetHandleVerifier [0x7ff65bd54000+14980]
+	chromedriver!(No symbol) [0x7ff65b897726]
+	chromedriver!(No symbol) [0x7ff65b8e3083]
+	chromedriver!(No symbol) [0x7ff65b91a2d2]
+	chromedriver!(No symbol) [0x7ff65b9140d2]
+	chromedriver!(No symbol) [0x7ff65b913892]
+	chromedriver!(No symbol) [0x7ff65b8603e5]
+	chromedriver!GetHandleVerifier [0x7ff65c337591+5f7f11]
+	chromedriver!GetHandleVerifier [0x7ff65c331902+5f2282]
+	chromedriver!GetHandleVerifier [0x7ff65c357115+617a95]
+	chromedriver!GetHandleVerifier [0x7ff65bd71dce+3274e]
+	chromedriver!GetHandleVerifier [0x7ff65bd7a82c+3b1ac]
+	chromedriver!(No symbol) [0x7ff65b85f188]
+	chromedriver!GetHandleVerifier [0x7ff65c507b58+7c84d8]
+	KERNEL32!BaseThreadInitThunk [0x7ffcb1cde957+17]
+	ntdll!RtlUserThreadStart [0x7ffcb1ea7c1c+2c]
+
+04:09:10 [INFO] 🚪 Đang đóng trình duyệt giải phóng RAM...
+04:09:24 [INFO] 🌐 Đang khởi chạy Google Chrome với Profile...
+04:09:25 [INFO] 🔑 Truy cập Facebook trang chủ...
+04:09:31 [INFO] 🔍 Bắt đầu tìm kiếm từ khóa: xe tự hành
+04:09:46 [WARNING] Không điều hướng được bằng thanh tìm kiếm, thử gọi URL trực tiếp: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff65bd53fa5+14925]
+	chromedriver!GetHandleVerifier [0x7ff65bd54000+14980]
+	chromedriver!(No symbol) [0x7ff65b89793d]
+	chromedriver!(No symbol) [0x7ff65b8f1aad]
+	chromedriver!(No symbol) [0x7ff65b8f1dac]
+	chromedriver!(No symbol) [0x7ff65b9427d7]
+	chromedriver!(No symbol) [0x7ff65b93f39b]
+	chromedriver!(No symbol) [0x7ff65b8e401c]
+	chromedriver!(No symbol) [0x7ff65b8e4f43]
+	chromedriver!GetHandleVerifier [0x7ff65c337591+5f7f11]
+	chromedriver!GetHandleVerifier [0x7ff65c331902+5f2282]
+	chromedriver!GetHandleVerifier [0x7ff65c357115+617a95]
+	chromedriver!GetHandleVerifier [0x7ff65bd71dce+3274e]
+	chromedriver!GetHandleVerifier [0x7ff65bd7a82c+3b1ac]
+	chromedriver!GetHandleVerifier [0x7ff65bd5d744+1e0c4]
+	chromedriver!GetHandleVerifier [0x7ff65bd5d8d4+1e254]
+	chromedriver!GetHandleVerifier [0x7ff65bd41447+1dc7]
+	KERNEL32!BaseThreadInitThunk [0x7ffcb1cde957+17]
+	ntdll!RtlUserThreadStart [0x7ffcb1ea7c1c+2c]
+
+04:09:56 [INFO] 📋 Tìm thấy 0 nhóm mục tiêu cho từ khóa 'xe tự hành': []
+04:09:56 [INFO] 🔍 Bắt đầu tìm kiếm từ khóa: Cộng đồng lập trình C C# Python
+04:10:01 [WARNING] Không điều hướng được bằng thanh tìm kiếm, thử gọi URL trực tiếp: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=149.0.7827.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff65bd53fa5+14925]
+	chromedriver!GetHandleVerifier [0x7ff65bd54000+14980]
+	chromedriver!(No symbol) [0x7ff65b89793d]
+	chromedriver!(No symbol) [0x7ff65b882d82]
+	chromedriver!(No symbol) [0x7ff65b8a90cc]
+	chromedriver!(No symbol) [0x7ff65b921aa0]
+	chromedriver!(No symbol) [0x7ff65b93ec82]
+	chromedriver!(No symbol) [0x7ff65b8e401c]
+	chromedriver!(No symbol) [0x7ff65b8e4f43]
+	chromedriver!GetHandleVerifier [0x7ff65c337591+5f7f11]
+	chromedriver!GetHandleVerifier [0x7ff65c331902+5f2282]
+	chromedriver!GetHandleVerifier [0x7ff65c357115+617a95]
+	chromedriver!GetHandleVerifier [0x7ff65bd71dce+3274e]
+	chromedriver!GetHandleVerifier [0x7ff65bd7a82c+3b1ac]
+	chromedriver!GetHandleVerifier [0x7ff65bd5d744+1e0c4]
+	chromedriver!GetHandleVerifier [0x7ff65bd5d8d4+1e254]
+	chromedriver!GetHandleVerifier [0x7ff65bd41447+1dc7]
+	KERNEL32!BaseThreadInitThunk [0x7ffcb1cde957+17]
+	ntdll!RtlUserThreadStart [0x7ffcb1ea7c1c+2c]
+
+04:10:01 [ERROR] 💥 Lỗi luồng tự động: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff65bd53fa5+14925]
+	chromedriver!GetHandleVerifier [0x7ff65bd54000+14980]
+	chromedriver!(No symbol) [0x7ff65b897726]
+	chromedriver!(No symbol) [0x7ff65b8e3083]
+	chromedriver!(No symbol) [0x7ff65b91a2d2]
+	chromedriver!(No symbol) [0x7ff65b9140d2]
+	chromedriver!(No symbol) [0x7ff65b913892]
+	chromedriver!(No symbol) [0x7ff65b8603e5]
+	chromedriver!GetHandleVerifier [0x7ff65c337591+5f7f11]
+	chromedriver!GetHandleVerifier [0x7ff65c331902+5f2282]
+	chromedriver!GetHandleVerifier [0x7ff65c357115+617a95]
+	chromedriver!GetHandleVerifier [0x7ff65bd71dce+3274e]
+	chromedriver!GetHandleVerifier [0x7ff65bd7a82c+3b1ac]
+	chromedriver!(No symbol) [0x7ff65b85f188]
+	chromedriver!GetHandleVerifier [0x7ff65c507b58+7c84d8]
+	KERNEL32!BaseThreadInitThunk [0x7ffcb1cde957+17]
+	ntdll!RtlUserThreadStart [0x7ffcb1ea7c1c+2c]
+Traceback (most recent call last):
+  File "E:\fb_automation\main.py", line 117, in run_automation_flow
+    search_box = wait.until(EC.element_to_be_clickable((By.XPATH, "//input[@placeholder='Tìm kiếm trên Facebook' or @aria-label='Tìm kiếm trên Facebook']")))
+                 ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\VO TUAN DAT\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\support\wait.py", line 112, in until
+    value = method(self._driver)
+  File "C:\Users\VO TUAN DAT\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 518, in _predicate
+    target = driver.find_element(*target)  # grab element at locator
+  File "C:\Users\VO TUAN DAT\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 899, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\VO TUAN DAT\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 492, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\VO TUAN DAT\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=149.0.7827.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff65bd53fa5+14925]
+	chromedriver!GetHandleVerifier [0x7ff65bd54000+14980]
+	chromedriver!(No symbol) [0x7ff65b89793d]
+	chromedriver!(No symbol) [0x7ff65b882d82]
+	chromedriver!(No symbol) [0x7ff65b8a90cc]
+	chromedriver!(No symbol) [0x7ff65b921aa0]
+	chromedriver!(No symbol) [0x7ff65b93ec82]
+	chromedriver!(No symbol) [0x7ff65b8e401c]
+	chromedriver!(No symbol) [0x7ff65b8e4f43]
+	chromedriver!GetHandleVerifier [0x7ff65c337591+5f7f11]
+	chromedriver!GetHandleVerifier [0x7ff65c331902+5f2282]
+	chromedriver!GetHandleVerifier [0x7ff65c357115+617a95]
+	chromedriver!GetHandleVerifier [0x7ff65bd71dce+3274e]
+	chromedriver!GetHandleVerifier [0x7ff65bd7a82c+3b1ac]
+	chromedriver!GetHandleVerifier [0x7ff65bd5d744+1e0c4]
+	chromedriver!GetHandleVerifier [0x7ff65bd5d8d4+1e254]
+	chromedriver!GetHandleVerifier [0x7ff65bd41447+1dc7]
+	KERNEL32!BaseThreadInitThunk [0x7ffcb1cde957+17]
+	ntdll!RtlUserThreadStart [0x7ffcb1ea7c1c+2c]
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\fb_automation\main.py", line 135, in run_automation_flow
+    driver.get(f"https://www.facebook.com/search/groups/?q={kw_encoded}")
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\VO TUAN DAT\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 512, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\VO TUAN DAT\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 492, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\VO TUAN DAT\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff65bd53fa5+14925]
+	chromedriver!GetHandleVerifier [0x7ff65bd54000+14980]
+	chromedriver!(No symbol) [0x7ff65b897726]
+	chromedriver!(No symbol) [0x7ff65b8e3083]
+	chromedriver!(No symbol) [0x7ff65b91a2d2]
+	chromedriver!(No symbol) [0x7ff65b9140d2]
+	chromedriver!(No symbol) [0x7ff65b913892]
+	chromedriver!(No symbol) [0x7ff65b8603e5]
+	chromedriver!GetHandleVerifier [0x7ff65c337591+5f7f11]
+	chromedriver!GetHandleVerifier [0x7ff65c331902+5f2282]
+	chromedriver!GetHandleVerifier [0x7ff65c357115+617a95]
+	chromedriver!GetHandleVerifier [0x7ff65bd71dce+3274e]
+	chromedriver!GetHandleVerifier [0x7ff65bd7a82c+3b1ac]
+	chromedriver!(No symbol) [0x7ff65b85f188]
+	chromedriver!GetHandleVerifier [0x7ff65c507b58+7c84d8]
+	KERNEL32!BaseThreadInitThunk [0x7ffcb1cde957+17]
+	ntdll!RtlUserThreadStart [0x7ffcb1ea7c1c+2c]
+
+04:10:01 [INFO] 🚪 Đang đóng trình duyệt giải phóng RAM...
+04:19:54 [CRITICAL] ❌ Không thể khởi tạo Client AI: Không tìm thấy biến GOOGLE_API_KEY trong file .env
+04:20:41 [CRITICAL] ❌ Không thể khởi tạo Client AI: Không tìm thấy biến GOOGLE_API_KEY trong file .env
+04:21:19 [INFO] 🌐 Đang khởi chạy Google Chrome với Profile...
+04:21:20 [INFO] 🔑 Truy cập Facebook để thiết lập phiên đăng nhập...
+04:21:25 [INFO] 🍪 Đang nạp Cookie thô vào trình duyệt...
+04:21:29 [INFO] 🎉 Đã đăng nhập thành công từ bước nạp Cookie/Session!
+04:21:29 [INFO] 🔍 Bắt đầu tìm kiếm bằng thanh Search tương tác với từ khóa: xe tự hành
+04:21:37 [INFO] 🎛️ Click chọn bộ lọc 'Nhóm'...
+04:21:52 [INFO] ✅ Click bộ lọc Nhóm thành công!
+04:21:55 [INFO] 📋 Tìm thấy 2 nhóm sạch cho từ khóa 'xe tự hành': ['https://www.facebook.com/groups/hoimaytronbetong/', 'https://www.facebook.com/groups/590241156095414/']
+04:21:55 [INFO] ➔ Đang tiến vào nhóm: https://www.facebook.com/groups/hoimaytronbetong/
+04:22:10 [INFO] 📝 Bắt được bài viết và 0 cmt. Đang đẩy sang Gemini...
+04:22:10 [INFO] AFC is enabled with max remote calls: 10.
+04:22:18 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+04:22:21 [INFO] ➔ Đang tiến vào nhóm: https://www.facebook.com/groups/590241156095414/
+04:22:34 [INFO] 📝 Bắt được bài viết và 3 cmt. Đang đẩy sang Gemini...
+04:22:34 [INFO] AFC is enabled with max remote calls: 10.
+04:22:45 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+04:22:48 [INFO] 🔍 Bắt đầu tìm kiếm bằng thanh Search tương tác với từ khóa: Cộng đồng lập trình C C# Python
+04:23:00 [INFO] 🎛️ Click chọn bộ lọc 'Nhóm'...
+04:23:01 [INFO] ✅ Click bộ lọc Nhóm thành công!
+04:23:04 [INFO] 📋 Tìm thấy 2 nhóm sạch cho từ khóa 'Cộng đồng lập trình C C# Python': ['https://www.facebook.com/groups/367208046810733/', 'https://www.facebook.com/groups/706885562759831/']
+04:23:04 [INFO] ➔ Đang tiến vào nhóm: https://www.facebook.com/groups/367208046810733/
+04:23:20 [INFO] 📝 Bắt được bài viết và 0 cmt. Đang đẩy sang Gemini...
+04:23:20 [INFO] AFC is enabled with max remote calls: 10.
+04:23:28 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+04:23:31 [INFO] ➔ Đang tiến vào nhóm: https://www.facebook.com/groups/706885562759831/
+04:23:45 [INFO] 📝 Bắt được bài viết và 0 cmt. Đang đẩy sang Gemini...
+04:23:45 [INFO] AFC is enabled with max remote calls: 10.
+04:23:52 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+04:23:55 [INFO] 🚪 Đang đóng trình duyệt giải phóng RAM...
+04:27:14 [INFO] 🌐 Đang khởi chạy Google Chrome với Profile...
+04:27:14 [INFO] 🔑 Truy cập Facebook để thiết lập phiên đăng nhập...
+04:27:19 [INFO] 🍪 Đang nạp Cookie thô vào trình duyệt...
+04:27:30 [INFO] 🎉 Đã đăng nhập thành công từ bước nạp Cookie/Session!
+04:27:30 [INFO] 🔍 Bắt đầu tìm kiếm bằng thanh Search tương tác với từ khóa: xe tự hành
+04:27:38 [INFO] 🎛️ Click chọn bộ lọc 'Nhóm'...
+04:27:53 [INFO] ✅ Click bộ lọc Nhóm thành công!
+04:27:56 [INFO] 📋 Tìm thấy 2 nhóm sạch cho từ khóa 'xe tự hành': ['https://www.facebook.com/groups/hoimaytronbetong/', 'https://www.facebook.com/groups/590241156095414/']
+04:27:56 [INFO] ➔ Đang tiến vào nhóm: https://www.facebook.com/groups/hoimaytronbetong/
+04:28:08 [WARNING] ⚠️ Không đọc được dữ liệu bài viết của nhóm này: https://www.facebook.com/groups/hoimaytronbetong/
+04:28:11 [INFO] ➔ Đang tiến vào nhóm: https://www.facebook.com/groups/590241156095414/
+04:28:25 [INFO] 📝 Bắt được bài viết và 3 cmt. Đang đẩy sang Gemini...
+04:28:25 [INFO] AFC is enabled with max remote calls: 10.
+04:28:34 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+04:28:37 [INFO] 🔍 Bắt đầu tìm kiếm bằng thanh Search tương tác với từ khóa: Cộng đồng lập trình C C# Python
+04:28:49 [INFO] 🎛️ Click chọn bộ lọc 'Nhóm'...
+04:28:51 [INFO] ✅ Click bộ lọc Nhóm thành công!
+04:28:54 [INFO] 📋 Tìm thấy 2 nhóm sạch cho từ khóa 'Cộng đồng lập trình C C# Python': ['https://www.facebook.com/groups/367208046810733/', 'https://www.facebook.com/groups/706885562759831/']
+04:28:54 [INFO] ➔ Đang tiến vào nhóm: https://www.facebook.com/groups/367208046810733/
+04:29:06 [INFO] 📝 Bắt được bài viết và 0 cmt. Đang đẩy sang Gemini...
+04:29:06 [INFO] AFC is enabled with max remote calls: 10.
+04:29:14 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+04:29:17 [INFO] ➔ Đang tiến vào nhóm: https://www.facebook.com/groups/706885562759831/
+04:29:24 [INFO] 🚪 Đang đóng trình duyệt giải phóng RAM...
+04:29:24 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/3f735ddbee17a35a9f936dae92d5de94
+04:31:06 [INFO] 🌐 Đang khởi chạy Google Chrome với Profile...
+04:31:07 [INFO] 🔑 Truy cập Facebook để thiết lập phiên đăng nhập...
+04:31:11 [INFO] 🍪 Đang nạp Cookie thô vào trình duyệt...
+04:31:16 [INFO] 🎉 Đã đăng nhập thành công từ bước nạp Cookie/Session!
+04:31:16 [INFO] 🔍 Bắt đầu tìm kiếm từ khóa: xe tự hành
+04:31:24 [INFO] 🎛️ Click chọn bộ lọc 'Nhóm'...
+04:31:38 [INFO] ✅ Click bộ lọc Nhóm thành công!
+04:31:41 [INFO] 📋 Tìm thấy 2 nhóm sạch cho từ khóa 'xe tự hành': ['https://www.facebook.com/groups/hoimaytronbetong/', 'https://www.facebook.com/groups/590241156095414/']
+04:31:41 [INFO] ➔ Đang tiến vào nhóm: https://www.facebook.com/groups/hoimaytronbetong/
+04:31:53 [INFO] 📝 Bắt được bài viết. Đang yêu cầu AI sinh câu trả lời...
+04:31:53 [INFO] AFC is enabled with max remote calls: 10.
+04:32:00 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+04:32:00 [INFO] 🎯 Đang tìm kiếm hộp thoại Bình luận (Comment Box)...
+04:32:03 [INFO] ✍️ Đang gõ bình luận từng ký tự...
+04:32:18 [INFO] ✅ Đã gửi bình luận thành công lên bài viết!
+04:32:27 [INFO] ➔ Đang tiến vào nhóm: https://www.facebook.com/groups/590241156095414/
+04:32:43 [INFO] 📝 Bắt được bài viết. Đang yêu cầu AI sinh câu trả lời...
+04:32:43 [INFO] AFC is enabled with max remote calls: 10.
+04:32:54 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+04:32:54 [INFO] 🎯 Đang tìm kiếm hộp thoại Bình luận (Comment Box)...
+04:32:56 [INFO] ✍️ Đang gõ bình luận từng ký tự...
+04:33:25 [INFO] ✅ Đã gửi bình luận thành công lên bài viết!
+04:33:33 [INFO] 🔍 Bắt đầu tìm kiếm từ khóa: Cộng đồng lập trình C C# Python
+04:33:45 [INFO] 🎛️ Click chọn bộ lọc 'Nhóm'...
+04:33:46 [INFO] ✅ Click bộ lọc Nhóm thành công!
+04:33:49 [INFO] 📋 Tìm thấy 2 nhóm sạch cho từ khóa 'Cộng đồng lập trình C C# Python': ['https://www.facebook.com/groups/367208046810733/', 'https://www.facebook.com/groups/706885562759831/']
+04:33:49 [INFO] ➔ Đang tiến vào nhóm: https://www.facebook.com/groups/367208046810733/
+04:34:02 [INFO] 📝 Bắt được bài viết. Đang yêu cầu AI sinh câu trả lời...
+04:34:02 [INFO] AFC is enabled with max remote calls: 10.
+04:34:10 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+04:34:10 [INFO] 🎯 Đang tìm kiếm hộp thoại Bình luận (Comment Box)...
+04:34:13 [INFO] ✍️ Đang gõ bình luận từng ký tự...
+04:34:33 [INFO] ✅ Đã gửi bình luận thành công lên bài viết!
+04:34:42 [INFO] ➔ Đang tiến vào nhóm: https://www.facebook.com/groups/706885562759831/
+04:34:58 [INFO] 📝 Bắt được bài viết. Đang yêu cầu AI sinh câu trả lời...
+04:34:58 [INFO] AFC is enabled with max remote calls: 10.
+04:35:05 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+04:35:05 [INFO] 🎯 Đang tìm kiếm hộp thoại Bình luận (Comment Box)...
+04:35:08 [INFO] ✍️ Đang gõ bình luận từng ký tự...
+04:35:20 [INFO] ✅ Đã gửi bình luận thành công lên bài viết!
+04:35:27 [INFO] 🚪 Đang đóng trình duyệt giải phóng RAM...
+04:36:00 [INFO] 🌐 Đang khởi chạy Google Chrome với Profile...
+04:36:01 [INFO] 🔑 Truy cập Facebook để thiết lập phiên đăng nhập...
+04:36:06 [INFO] 🍪 Đang nạp Cookie thô vào trình duyệt...
+04:36:10 [INFO] 🎉 Đã đăng nhập thành công từ bước nạp Cookie/Session!
+04:36:10 [INFO] 🔍 Bắt đầu tìm kiếm từ khóa: hội làm giàu
+04:36:19 [INFO] 🎛️ Click chọn bộ lọc 'Nhóm'...
+04:36:33 [INFO] ✅ Click bộ lọc Nhóm thành công!
+04:36:36 [INFO] 📋 Tìm thấy 2 nhóm sạch cho từ khóa 'hội làm giàu': ['https://www.facebook.com/groups/780471109642698/', 'https://www.facebook.com/groups/2882249585438802/']
+04:36:36 [INFO] ➔ Đang tiến vào nhóm: https://www.facebook.com/groups/780471109642698/
+04:36:51 [INFO] 📝 Bắt được bài viết. Đang yêu cầu AI sinh câu trả lời...
+04:36:51 [INFO] AFC is enabled with max remote calls: 10.
+04:37:02 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+04:37:02 [INFO] 🎯 Đang tìm kiếm hộp thoại Bình luận (Comment Box)...
+04:37:05 [INFO] ✍️ Đang gõ bình luận từng ký tự...
+04:39:45 [ERROR] ❌ Thất bại khi thực hiện tương tác bình luận: Message: element not interactable
+  (Session info: chrome=149.0.7827.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementnotinteractableexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff65bd53fa5+14925]
+	chromedriver!GetHandleVerifier [0x7ff65bd54000+14980]
+	chromedriver!(No symbol) [0x7ff65b897726]
+	chromedriver!(No symbol) [0x7ff65b8ec8a9]
+	chromedriver!(No symbol) [0x7ff65b8ea448]
+	chromedriver!(No symbol) [0x7ff65b91a3ca]
+	chromedriver!(No symbol) [0x7ff65b8e57c6]
+	chromedriver!(No symbol) [0x7ff65b93f39b]
+	chromedriver!(No symbol) [0x7ff65b8e401c]
+	chromedriver!(No symbol) [0x7ff65b8e4f43]
+	chromedriver!GetHandleVerifier [0x7ff65c337591+5f7f11]
+	chromedriver!GetHandleVerifier [0x7ff65c331902+5f2282]
+	chromedriver!GetHandleVerifier [0x7ff65c357115+617a95]
+	chromedriver!GetHandleVerifier [0x7ff65bd71dce+3274e]
+	chromedriver!GetHandleVerifier [0x7ff65bd7a82c+3b1ac]
+	chromedriver!GetHandleVerifier [0x7ff65bd5d744+1e0c4]
+	chromedriver!GetHandleVerifier [0x7ff65bd5d8d4+1e254]
+	chromedriver!GetHandleVerifier [0x7ff65bd41447+1dc7]
+	KERNEL32!BaseThreadInitThunk [0x7ffcb1cde957+17]
+	ntdll!RtlUserThreadStart [0x7ffcb1ea7c1c+2c]
+
+04:39:50 [INFO] ➔ Đang tiến vào nhóm: https://www.facebook.com/groups/2882249585438802/
+04:40:07 [INFO] 📝 Bắt được bài viết. Đang yêu cầu AI sinh câu trả lời...
+04:40:07 [INFO] AFC is enabled with max remote calls: 10.
+04:40:14 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+04:40:14 [INFO] 🎯 Đang tìm kiếm hộp thoại Bình luận (Comment Box)...
+04:40:17 [INFO] ✍️ Đang gõ bình luận từng ký tự...
+04:40:40 [INFO] ✅ Đã gửi bình luận thành công lên bài viết!
+04:40:50 [INFO] 🚪 Đang đóng trình duyệt giải phóng RAM...

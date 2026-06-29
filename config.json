@@ -1,0 +1,20 @@
+{
+  "delays": {
+    "delay_load_page_min": 8,
+    "delay_load_page_max": 12,
+    "delay_read_post_min": 5,
+    "delay_read_post_max": 10,
+    "delay_typing_speed_min": 0.08,
+    "delay_typing_speed_max": 0.25,
+    "delay_between_groups_min": 30,
+    "delay_between_groups_max": 60
+  },
+  "settings": {
+    "max_groups_per_keyword": 2,
+    "internet_check_interval_seconds": 60,
+    "heartbeat_interval_minutes": 30
+  },
+  "keywords": [
+    "hội làm giàu"
+  ]
+}
